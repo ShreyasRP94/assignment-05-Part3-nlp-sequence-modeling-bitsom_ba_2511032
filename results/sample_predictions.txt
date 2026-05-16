@@ -1,0 +1,50 @@
+Sample 1
+Text: satisfied plan recommend
+True Label: positive
+Predicted Label: negative
+--------------------------------------------------------------------------------
+Sample 2
+Text: subscription working happy service
+True Label: positive
+Predicted Label: negative
+--------------------------------------------------------------------------------
+Sample 3
+Text: want understand warranty terms product ticket number
+True Label: neutral
+Predicted Label: neutral
+--------------------------------------------------------------------------------
+Sample 4
+Text: want understand warranty terms product
+True Label: neutral
+Predicted Label: neutral
+--------------------------------------------------------------------------------
+Sample 5
+Text: unhappy account worked week
+True Label: negative
+Predicted Label: negative
+--------------------------------------------------------------------------------
+Sample 6
+Text: refund process fast convenient
+True Label: positive
+Predicted Label: negative
+--------------------------------------------------------------------------------
+Sample 7
+Text: product quality bad regret purchasing
+True Label: negative
+Predicted Label: negative
+--------------------------------------------------------------------------------
+Sample 8
+Text: refund pending experience frustrating
+True Label: negative
+Predicted Label: negative
+--------------------------------------------------------------------------------
+Sample 9
+Text: explain difference plans
+True Label: neutral
+Predicted Label: neutral
+--------------------------------------------------------------------------------
+Sample 10
+Text: share status subscription request respond soon possible
+True Label: neutral
+Predicted Label: neutral
+--------------------------------------------------------------------------------
